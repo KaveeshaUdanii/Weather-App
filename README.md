@@ -26,10 +26,10 @@ This project is a simple weather application built using HTML, CSS, and JavaScri
 ## Screenshots
 
 ![Weather App Screenshot](1.png)
-/*
+
 ## Demo
 
 - [Live Demo](https://your-demo-link.com) 
 
-*/
+
 
