@@ -1,6 +1,6 @@
 # Weather-App
 
-This project is a simple weather application built using HTML, CSS, and JavaScript. It fetches current weather data from the OpenWeatherMap API based on user-provided city names and displays it dynamically on the webpage.
+This is a simple weather application built using HTML, CSS, and JavaScript. It fetches current weather data from the OpenWeatherMap API based on user-provided city names and displays it dynamically on the webpage.
 
 ## Features
 
