@@ -5,20 +5,20 @@ This project is a simple weather application built using HTML, CSS, and JavaScri
 ## Features
 
 - Allows users to enter a city name to fetch and display current weather information.
-- **Interactive**: Users can input any city name to fetch and display weather data.
-- **Visual Feedback**: Animations for smooth transitions when displaying weather information.
+- Displays weather condition icons, temperature in Celsius, weather description, humidity percentage, and wind speed.
+- Provides visual feedback with animations when weather data is fetched and displayed.
 
 ## Technologies Used
 
-- **HTML5**
-- **CSS3**: Flexbox for layout and animations for visual effects.
-- **JavaScript**: Used to fetch data from the OpenWeatherMap API and manipulate the DOM.
+- HTML5
+- CSS3 (Flexbox, animations)
+- JavaScript (fetch API, DOM manipulation)
 
 ## API Used
 
-- **OpenWeatherMap API**: Provides real-time weather data for cities worldwide.
+- OpenWeatherMap API for real-time weather data.
 
-## Usage
+## How to Use
 
 1. Enter the name of a city in the search box and click the search button.
 2. The app will fetch weather data for the specified city and display it on the screen.
@@ -31,7 +31,7 @@ This project is a simple weather application built using HTML, CSS, and JavaScri
 
 - [Live Demo](https://your-demo-link.com) (if available)
 
-## Installation
+
 
 No installation required. Simply clone the repository and open `index.html` in your web browser.
 
