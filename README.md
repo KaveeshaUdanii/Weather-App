@@ -1,26 +1,41 @@
 # Weather-App
+
 This project is a simple weather application built using HTML, CSS, and JavaScript. It fetches current weather data from the OpenWeatherMap API based on user-provided city names and displays it dynamically on the webpage.
 
-Features:
+## Features
 
-Allows users to enter a city name to fetch and display current weather information.
-Displays weather condition icons, temperature in Celsius, weather description, humidity percentage, and wind speed.
-Provides visual feedback with animations when weather data is fetched and displayed.
-Technologies Used:
+- **Weather Display**: Shows current weather conditions, temperature in Celsius, weather description, humidity percentage, and wind speed.
+- **Interactive**: Users can input any city name to fetch and display weather data.
+- **Visual Feedback**: Animations for smooth transitions when displaying weather information.
 
-HTML5
-CSS3 (Flexbox, animations)
-JavaScript (fetch API, DOM manipulation)
-API Used:
+## Technologies Used
 
-OpenWeatherMap API for real-time weather data.
-How to Use:
+- **HTML5**
+- **CSS3**: Flexbox for layout and animations for visual effects.
+- **JavaScript**: Used to fetch data from the OpenWeatherMap API and manipulate the DOM.
 
-Enter the name of a city in the search box and click the search button.
-The app will fetch weather data for the specified city and display it on the screen.
-Screenshots:
+## API Used
 
-Include screenshots of your weather app in action, showing different weather conditions if possible.
-Demo:
+- **OpenWeatherMap API**: Provides real-time weather data for cities worldwide.
 
-Provide a live demo link if available.
+## Usage
+
+1. Enter the name of a city in the search box and click the search button.
+2. The app will fetch weather data for the specified city and display it on the screen.
+
+## Screenshots
+
+![Weather App Screenshot](/path/to/your/screenshot.png)
+
+## Demo
+
+- [Live Demo](https://your-demo-link.com) (if available)
+
+## Installation
+
+No installation required. Simply clone the repository and open `index.html` in your web browser.
+
+```plaintext
+git clone https://github.com/your-username/weather-app.git
+
+
