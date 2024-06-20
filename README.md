@@ -4,7 +4,7 @@ This project is a simple weather application built using HTML, CSS, and JavaScri
 
 ## Features
 
-- **Weather Display**: Shows current weather conditions, temperature in Celsius, weather description, humidity percentage, and wind speed.
+- Allows users to enter a city name to fetch and display current weather information.
 - **Interactive**: Users can input any city name to fetch and display weather data.
 - **Visual Feedback**: Animations for smooth transitions when displaying weather information.
 
