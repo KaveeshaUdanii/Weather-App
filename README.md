@@ -25,7 +25,7 @@ This project is a simple weather application built using HTML, CSS, and JavaScri
 
 ## Screenshots
 
-![Weather App Screenshot](readme images/1.png)
+![Weather App Screenshot](1.png)
 
 ## Demo
 
