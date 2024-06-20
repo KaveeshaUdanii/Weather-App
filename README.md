@@ -33,9 +33,3 @@ This project is a simple weather application built using HTML, CSS, and JavaScri
 
 
 
-No installation required. Simply clone the repository and open `index.html` in your web browser.
-
-```plaintext
-git clone https://github.com/your-username/weather-app.git
-
-
